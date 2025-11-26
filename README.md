@@ -1,39 +1,65 @@
-Reminders app
-Reminders app﻿ is a mobile application for iPadOS that enhances task management by merging traditional to-do list features with the naturalness of handwritten notes. It allows users to create, edit, and manage reminders using Apple Pencil or finger handwriting. The app seamlessly integrates handwriting recognition and synchronizes with the Apple ecosystem, including the system calendar.
+# RemindersApp
 
-Features
-Create and edit reminders with handwritten notes and drawings.
+RemindersApp is a mobile application for iPadOS that enhances task management by merging traditional to-do list features with the naturalness of handwritten notes. It allows users to create, edit, and manage reminders using Apple Pencil or finger handwriting. The app seamlessly integrates handwriting recognition and synchronizes with the Apple ecosystem, including the system calendar.
 
-Handwriting recognition to convert handwritten notes into digital text.
+---
 
-Synchronization with the system calendar via EventKit.
+## Features
 
-Organize tasks using customizable lists and smart lists with advanced filters.
+- **Handwritten reminders creation and editing, Handwriting recognition converting notes to digital text**  
 
-Drag & drop support for moving reminders between lists.
+https://github.com/user-attachments/assets/0fa319a2-c146-4662-855d-330a1cdf50bf
 
-Intuitive UI based on SwiftUI’s NavigationSplitView adhering to Apple’s Human Interface Guidelines.
+<br>
 
-Technologies
-Platform: iPadOS (requires iPadOS 16+ with Apple Pencil support)
+- **Synchronization with system calendar via EventKit**
 
-Programming Language: Swift with SwiftUI
+https://github.com/user-attachments/assets/6751a41d-1980-40f9-8528-d01c72d31c7d
 
-Data Storage: SwiftData and iCloud
+<br>
 
-Input: PencilKit for handwriting & drawing
+- **Task organization through customizable and smart lists with filters**
 
-Text recognition: Vision framework
+https://github.com/user-attachments/assets/eb2aa4f9-1e11-4cc1-9fb1-ed0b7f3924a8
 
-Calendar management: EventKit
+<br>
 
-Development: Xcode
+- **Drag & drop support for easy management between lists**  
 
-Usage
-Use Apple Pencil or finger to write and draw reminders directly.
+https://github.com/user-attachments/assets/c2abcdba-42d9-4389-a4fb-28276d79a188
 
-Save handwritten notes to create interactive reminders with editable details.
+<br>
 
-Organize reminders into lists and apply filters for quick access.
+- **Intuitive and responsive UI based on SwiftUI NavigationSplitView**  
 
-Sync reminders across devices through iCloud.
+https://github.com/user-attachments/assets/435c7fa9-6bc2-4e0e-aa34-8e0c0f48c947
+
+<br>
+
+- **Dark mode support**  
+
+https://github.com/user-attachments/assets/5880f8ef-e73f-4850-bc59-1114cc467d93
+
+---
+
+## Technologies
+
+- Platform: iPadOS (iPadOS 16+ with Apple Pencil support)  
+- Programming Language: Swift with SwiftUI  
+- Data Storage: SwiftData and iCloud synchronization  
+- Input: PencilKit for handwriting and drawing  
+- Text Recognition: Vision framework  
+- Calendar Integration: EventKit  
+- Development Environment: Xcode  
+
+---
+
+## Usage
+
+- Write or draw reminders with Apple Pencil/finger directly on canvas.  
+- Save handwritten notes to create interactive, editable reminders.  
+- Organize reminders into lists and apply filters for quick access.  
+- Sync reminders across Apple devices with iCloud.
+
+---
+
